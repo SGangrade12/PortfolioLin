@@ -21,9 +21,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Create scroll progress indicator
-    const scrollIndicator = document.createElement('div');
-    scrollIndicator.className = 'scroll-indicator';
-    document.body.appendChild(scrollIndicator);
 });
 
 // Smooth scrolling for navigation links (only for hash links)
